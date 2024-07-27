@@ -602,6 +602,7 @@ const controlRecipes = async function() {
     if (!id) return;
     (0, _recipeViewJsDefault.default).renderSpinner();
     try {
+        (0, _resultsViewJsDefault.default).update(_modelJs.getSearchResultsPage());
         await _modelJs.loadRecipe(id);
         (0, _recipeViewJsDefault.default).render(_modelJs.state.recipe);
     } catch (err) {
@@ -626,7 +627,7 @@ const controlPagination = function(goToPage) {
 };
 const controlServings = function(newServings) {
     _modelJs.updateServings(newServings);
-    (0, _recipeViewJsDefault.default).render(_modelJs.state.recipe);
+    (0, _recipeViewJsDefault.default).update(_modelJs.state.recipe);
 };
 const init = function() {
     (0, _recipeViewJsDefault.default).addHandlerRender(controlRecipes);
@@ -3007,6 +3008,20 @@ class View {
         this._clear();
         this._parentElement.insertAdjacentHTML("afterbegin", markup);
     }
+    update(data) {
+        this._data = data;
+        const newMarkup = this._generateMarkup();
+        const newDOM = document.createRange().createContextualFragment(newMarkup);
+        const newElements = Array.from(newDOM.querySelectorAll("*"));
+        const curElements = Array.from(this._parentElement.querySelectorAll("*"));
+        newElements.forEach((newEl, i)=>{
+            const curEl = curElements[i];
+            // Update changed text
+            if (!newEl.isEqualNode(curEl) && newEl.firstChild?.nodeValue.trim() !== "") curEl.textContent = newEl.textContent;
+            // Update attributes
+            if (!newEl.isEqualNode(curEl)) Array.from(newEl.attributes).forEach((attr)=>curEl.setAttribute(attr.name, attr.value));
+        });
+    }
     _clear() {
         this._parentElement.innerHTML = "";
     }
@@ -3081,8 +3096,9 @@ class ResultsView extends (0, _viewDefault.default) {
     _errorMessage = "No recipes found. Please try another one!";
     _message;
     _generateMarkup() {
+        const id = window.location.hash.slice(1);
         return this._data.map((rec)=>`<li class="preview">
-                <a class="preview__link preview__link--active" href="#${rec.id}">
+                <a class="preview__link ${id === rec.id && `preview__link--active`} " href="#${rec.id}">
                     <figure class="preview__fig">
                         <img src="${rec.image}" alt="${rec.title}" />
                     </figure>
