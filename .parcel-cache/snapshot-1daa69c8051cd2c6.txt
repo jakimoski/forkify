@@ -1,6 +1,6 @@
-10265
+10319
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_iterable_to_array133662072509835867 1
-44C:\Users\Vlatko\Desktop\Forkify\package.json133667361146290298 0
+44C:\Users\Vlatko\Desktop\Forkify\package.json133667377916232925 0
 74C:\Users\Vlatko\Desktop\Forkify\node_modules\@babel\highlight\node_modules133662072463479615 1
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.reflect.set.js133662132657977419 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\postcss-value-parser\lib\stringify.js133662072472039400 0
@@ -12,7 +12,7 @@
 58C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\index.js133662072500911409 0
 46C:\Users\Vlatko\Desktop\Forkify\forify-app.jpg133667322831794342 0
 103C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\SelectorList.js133662072507817121 0
-36C:\Users\Vlatko\Desktop\Forkify\dist133667361208621291 1
+36C:\Users\Vlatko\Desktop\Forkify\dist133667378071810657 1
 63C:\Users\Vlatko\Desktop\Forkify\node_modules\tslib\package.json133662072474083211 0
 67C:\Users\Vlatko\Desktop\Forkify\node_modules\lightningcss\README.md133662072481618529 0
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\date\get-year.js133662132675588900 0
@@ -260,7 +260,7 @@
 90C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\esnext.set.intersection.v2.js133662132664373437 0
 44C:\Users\Vlatko\Desktop\Forkify\src\js\views133665790174324849 1
 74C:\Users\Vlatko\Desktop\Forkify\node_modules\semver\functions\satisfies.js133662072491072817 0
-118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.13495aef.css133667345563375414 0
+118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.13495aef.css133667364485159735 0
 96C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\css-image-orientation.js133662072503219981 0
 110C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.js133662072474802774 0
 69C:\Users\Vlatko\Desktop\Forkify\node_modules\graceful-fs\package.json133667343761104750 0
@@ -305,6 +305,7 @@
 96C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133662072510365533 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\node-addon-api\tools\clang-format.js133662072481928331 0
 53C:\Users\Vlatko\Desktop\Forkify\node_modules\anymatch133662073216379316 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\c2133667362599309667 1
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\trim-repeated\package.json133667343760334397 0
 102C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Percentage.cjs133662072499367299 0
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\js-yaml\lib\type\float.js133662072477011395 0
@@ -401,6 +402,7 @@
 56C:\Users\Vlatko\Desktop\Forkify\node_modules\array-union133667343760798993 1
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\type-fest\source\merge.d.ts133662072485376182 0
 59C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\map133662132679166675 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\63133667364478176664 1
 55C:\Users\Vlatko\Desktop\Forkify\node_modules\array-uniq133667343760789001 1
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\mdn-data\l10n133662072486335764 1
 94C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\css-media-scripting.js133662072505688449 0
@@ -646,7 +648,7 @@
 91C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\node_modules\dom-serializer\lib\esm133662072495203191 1
 90C:\Users\Vlatko\Desktop\Forkify\node_modules\msgpackr-extract\node_modules\detect-libc\lib133662072472049389 1
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\typed-array\to-locale-string.js133662132712720183 0
-118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\icons.c14567a0.svg133667345563375414 0
+118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\icons.c14567a0.svg133667364485159735 0
 100C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker133662072498970848 1
 103C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.d.ts133662072496322497 0
 88C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\define-global-property.js133662132651211634 0
@@ -675,6 +677,7 @@
 90C:\Users\Vlatko\Desktop\Forkify\node_modules\posthtml\node_modules\posthtml-parser\license133662072485795926 0
 53C:\Users\Vlatko\Desktop\Forkify\node_modules\htmlnano133662072499130752 1
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\commondir\readme.markdown133667343760940560 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\5c\58e251823be10457f98b280166c7191b484180133667364480997986 0
 69C:\Users\Vlatko\Desktop\Forkify\node_modules\term-size\vendor\windows133662072474413005 1
 49C:\Users\Vlatko\Desktop\Forkify\node_modules\pify133667343760789001 1
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\AZ.js133662072492504870 0
@@ -730,7 +733,7 @@
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133662072500201857 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\MH.js133662072519186011 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\number\to-fixed.js133662132712120561 0
-125C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.runtime.1424f709.js133667345563375414 0
+125C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.runtime.1424f709.js133667364485159735 0
 55C:\Users\Vlatko\Desktop\Forkify\node_modules\is-extglob133662072471289663 1
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\cjs\_apply_decs_2203_r.cjs133662072478560427 0
 77C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\lib\ParcelConfig.js133662072501341144 0
@@ -878,6 +881,7 @@
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\string\match.js133662132698058258 0
 59C:\Users\Vlatko\Desktop\Forkify\node_modules\normalize-path133662073216349764 1
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\string\big.js133662132646934724 0
+122C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.6fd1e385.css.map133667364485159735 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\htmlparser2\lib\Parser.d.ts.map133662072475932066 0
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\universalify\package.json133667343760667872 0
 93C:\Users\Vlatko\Desktop\Forkify\node_modules\htmlnano\lib\modules\sortAttributesWithLists.mjs133662072498860922 0
@@ -898,6 +902,7 @@
 58C:\Users\Vlatko\Desktop\Forkify\node_modules\object-assign133667343760808986 1
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\fontface.js133662072512999860 0
 90C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\async-iterator-iteration.js133662132646122998 0
+118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.6fd1e385.css133667364485159735 0
 66C:\Users\Vlatko\Desktop\Forkify\node_modules\picomatch\lib\scan.js133662072473753437 0
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\htmlparser2\lib\Parser.d.ts133662072481908345 0
 64C:\Users\Vlatko\Desktop\Forkify\node_modules\dotenv\CHANGELOG.md133662072473613510 0
@@ -1475,7 +1480,7 @@
 112C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.js133662072475572294 0
 95C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\esnext.set.symmetric-difference.js133662132664533334 0
 61C:\Users\Vlatko\Desktop\Forkify\node_modules\tslib\tslib.html133662072469575134 0
-57C:\Users\Vlatko\Desktop\Forkify\dist\favicon.9a1bb8f5.png133667361208274477 0
+57C:\Users\Vlatko\Desktop\Forkify\dist\favicon.9a1bb8f5.png133667378071503800 0
 109C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.js133662072471914413 0
 77C:\Users\Vlatko\Desktop\Forkify\node_modules\term-size\vendor\macos\term-size133662072474043234 0
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\string\virtual\starts-with.js133662132709237150 0
@@ -1843,7 +1848,7 @@
 85C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\get-alphabet-option.js133662132674719452 0
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\svgo\plugins\reusePaths.js133662072497981462 0
 95C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\node_modules\entities\lib\escape.js.map133662072491920167 0
-109C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\HEAD133667345562372777 0
+109C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\HEAD133667364484000795 0
 65C:\Users\Vlatko\Desktop\Forkify\node_modules\fill-range\README.md133662072472019408 0
 88C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\localecompare.js133662072517876825 0
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\svgo\plugins\_collections.js133662072490802987 0
@@ -1969,6 +1974,7 @@
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\array\virtual\at.js133662132646348110 0
 62C:\Users\Vlatko\Desktop\Forkify\node_modules\make-dir\index.js133667343760449824 0
 66C:\Users\Vlatko\Desktop\Forkify\node_modules\source-map-js\LICENSE133662072468409407 0
+62C:\Users\Vlatko\Desktop\Forkify\dist\index.runtime.e308e462.js133667378071693959 0
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\proposals\array-grouping.js133662132644971104 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\source-map-js\lib\binary-search.js133662072472768954 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\source-map-js\lib\mapping-list.js133662072473503576 0
@@ -2065,7 +2071,7 @@
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\node-resolver-core\package.json133662072475612266 0
 77C:\Users\Vlatko\Desktop\Forkify\node_modules\semver\internal\parse-options.js133662072488674310 0
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\semver\functions\coerce.js133662072474522943 0
-114C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\HEAD133667345565606853 0
+114C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\HEAD133667364484625804 0
 99C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_class_private_method_init\package.json133662072507467334 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\test\config.test.js133662072487255192 0
 57C:\Users\Vlatko\Desktop\Forkify\node_modules\fs-extra\lib133667343761773359 1
@@ -2464,6 +2470,7 @@
 74C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\parse-float.js133662132700256877 0
 91C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\array\virtual\group-to-map.js133662132676118570 0
 64C:\Users\Vlatko\Desktop\Forkify\node_modules\path-exists\license133667343760818980 0
+59C:\Users\Vlatko\Desktop\Forkify\dist\index.10e14cf9.css.map133667378071720999 0
 108C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\transformer-js\node_modules\regenerator-runtime\LICENSE133662132640558143 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\mdn-data\api133662072487674930 1
 68C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\function133662132698707842 1
@@ -3016,6 +3023,7 @@
 60C:\Users\Vlatko\Desktop\Forkify\node_modules\find-up\license133667343760828972 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\dependencies\lz4\lib\LICENSE133662072481638512 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\dependencies\lz4\lib\lz4.c133662072489603732 0
+58C:\Users\Vlatko\Desktop\Forkify\dist\index.9b379914.js.map133667378071800667 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\dependencies\lz4\lib\lz4.h133662072499842076 0
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\counter\CHANGELOG.md133662072469575134 0
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\dependencies\lz4\lib\lz4file.c133662072489823595 0
@@ -3125,6 +3133,7 @@
 94C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c133662072489014106 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\cjs\replace\property\font.cjs133662072485735960 0
 95C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133662072499030808 0
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\12133667364481688030 1
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\cjs\utils\names.cjs133662072497321873 0
 93C:\Users\Vlatko\Desktop\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133662072480139451 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\webgpu.js133662072524677785 0
@@ -3830,7 +3839,7 @@
 103C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaFeature.js133662072506987633 0
 93C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\lib\esm\pseudo-selectors\pseudos.d.ts133662072496852164 0
 68C:\Users\Vlatko\Desktop\Forkify\node_modules\fill-range\package.json133662072470334664 0
-122C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.13495aef.css.map133667345563375414 0
+122C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.13495aef.css.map133667364485159735 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\json\is-raw-json.js133662132688853970 0
 114C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.js.map133662072488284550 0
 101C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Dimension.cjs133662072493854031 0
@@ -3879,7 +3888,7 @@
 67C:\Users\Vlatko\Desktop\Forkify\node_modules\escalade\sync\index.js133662072470640067 0
 68C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\transformer-css133662072480928950 1
 66C:\Users\Vlatko\Desktop\Forkify\node_modules\error-ex\package.json133662072468429397 0
-124C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\heads\gh-pages133667345565606853 0
+124C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\heads\gh-pages133667362600680991 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.symbol.iterator.js133662132659396534 0
 69C:\Users\Vlatko\Desktop\Forkify\node_modules\array-union\package.json133667343760334397 0
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\proposals\array-flat-map.js133662132644824644 0
@@ -3984,6 +3993,7 @@
 99C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Function.js133662072505608497 0
 94C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\css-text-align-last.js133662072507227512 0
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\async-iterator\reduce.js133662132702284811 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\9d\b085a6ee4a7d62fbfcd23519d3973e20cebffb133667364485628431 0
 69C:\Users\Vlatko\Desktop\Forkify\node_modules\domutils\lib\querying.js133662072473963293 0
 88C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\proposals\array-grouping-stage-3.js133662132644951115 0
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\web-share.js133662072524617826 0
@@ -4152,7 +4162,7 @@
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133662072508016994 1
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\clear-immediate.js133662132648065823 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\array\virtual\at.js133662132646593475 0
-99C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git133667345563375414 1
+99C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git133667364485003461 1
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo133662072506597873 1
 63C:\Users\Vlatko\Desktop\Forkify\node_modules\commander\index.js133662072483677253 0
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\promises.js133662072521529628 0
@@ -4347,7 +4357,7 @@
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\css-exclusions.js133662072502240580 0
 97C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133662072497811570 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\object-to-array.js133662132699247505 0
-119C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\COMMIT_EDITMSG133667345565541792 0
+119C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\COMMIT_EDITMSG133667362600680991 0
 91C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\node_modules\css-tree\cjs\lexer\match.cjs133662072497941487 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.string.trim-end.js133662132659236641 0
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\array\sort.js133662132708280465 0
@@ -4394,7 +4404,6 @@
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\lib\restructure\1-mergeAtrule.js133662072491730290 0
 88C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\lib\restructure\4-restructShorthand.js133662072492279955 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\json\parse.js133662132700426762 0
-119C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\Forkify.3464ddca.js133667345563375414 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.promise.any.js133662132657437749 0
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\lib\restructure\7-mergeRuleset.js133662072492594815 0
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\cosmiconfig\dist\util.js.map133662072490852985 0
@@ -4402,7 +4411,6 @@
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\math\imulh.js133662132676788157 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\object\is-frozen.js133662132687964525 0
 67C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\lib\tokenizer133662072508996382 1
-123C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\Forkify.3464ddca.js.map133667345563375414 0
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\lib\restructure\prepare133662072497301886 1
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\VC.js133662072524168116 0
 64C:\Users\Vlatko\Desktop\Forkify\node_modules\csso\cjs\syntax.cjs133662072489154012 0
@@ -4755,6 +4763,7 @@
 96C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\async-iterator\as-indexed-pairs.js133662132645590055 0
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\esnext.array.group-to-map.js133662132660755694 0
 86C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\array\virtual\entries.js133662132653899953 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\f0\bbe92a4f584224fd1e3e6a19c2753c5c6ddac7133667364481844350 0
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\cjs\data-patch.cjs133662072487535014 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\instance\reduce.js133662132702896585 0
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_iterable_to_array_limit133662072509785890 1
@@ -4807,7 +4816,6 @@
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\proximity.js133662072521549598 0
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\cjs\syntax\scope\value.cjs133662072500631588 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\array\virtual\flat.js133662132671951163 0
-121C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.e37f48ea.js.map133667345563572476 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133662072472219289 0
 92C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\esnext.array.find-last-index.js133662132660505841 0
 124C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\4-restructShorthand.js133662072488174625 0
@@ -4883,7 +4891,7 @@
 86C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\cjs\syntax\node\TypeSelector.cjs133662072500181872 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\iterator\take.js133662132711141160 0
 77C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\cjs\syntax\node\Url.cjs133662072500401730 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\93\b67cc5784f8471777b32ad2f114782b02e362c133667345564035485 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\93\b67cc5784f8471777b32ad2f114782b02e362c133667364485628431 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\cjs\syntax\node\Value.cjs133662072500561633 0
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\css-tree\cjs\syntax\node\WhiteSpace.cjs133662072500911409 0
 102C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_set.cjs133662072491032844 0
@@ -5220,6 +5228,7 @@
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\lib\esm\general.d.ts.map133662072491142779 0
 68C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_extends133662072509006377 1
 74C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\lib\esm\general.js133662072478240625 0
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\5f133667362600524709 1
 74C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\lib\esm\index.d.ts133662072496382458 0
 98C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133662072488004727 0
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\lib\esm\pseudo-selectors133662072497191958 1
@@ -5227,6 +5236,7 @@
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\lib\serializerCore.js133662072503150029 0
 77C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\lib\esm\sort.d.ts.map133662072493953974 0
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\lib\esm\sort.js133662072484676621 0
+55C:\Users\Vlatko\Desktop\Forkify\dist\index.10e14cf9.css133667378071693959 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\regexp\split.js133662132709187182 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\css-select\lib\esm\types.js.map133662072495123243 0
 104C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.array-buffer.transfer-to-fixed-length.js133662132654359680 0
@@ -5698,7 +5708,7 @@
 85C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\object\lookup-setter.js133662132696009513 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\error\to-string.js133662132715868224 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\dom-exception\index.js133662132685416118 0
-117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.09761b3f.js133667345563375414 0
+117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.09761b3f.js133667364485159735 0
 93C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\esnext.typed-array.from-async.js133662132665872503 0
 90C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\dom-exception\to-string-tag.js133662132715298581 0
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\dom-collections\index.js133662132685406116 0
@@ -5710,7 +5720,7 @@
 62C:\Users\Vlatko\Desktop\Forkify\node_modules\callsites\license133662072471804470 0
 62C:\Users\Vlatko\Desktop\Forkify\node_modules\async\asyncify.js133667343761504963 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\date\get-year.js133662132675618889 0
-110C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.html133667345563375414 0
+110C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.html133667364485159735 0
 85C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\array-buffer\is-view.js133662132689863347 0
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\date\index.js133662132685396121 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\stable\date\to-iso-string.js133662132712560274 0
@@ -5957,11 +5967,11 @@
 77C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\url-search-params133662132678457123 1
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.object.group-by.js133662132657157924 0
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\number\max-safe-integer.js133662132698348065 0
+121C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.571b656f.js.map133667364485159735 0
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.object.is-sealed.js133662132657217918 0
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\string\big.js133662132646994683 0
 69C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\array\flat.js133662132671881206 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\esnext.set.reduce.js133662132664503353 0
-121C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.62406edb.js.map133667345563375414 0
 87C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.object.lookup-setter.js133662132657267863 0
 87C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\function-bind-context.js133662132674559559 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.object.proto.js133662132657307839 0
@@ -6049,6 +6059,7 @@
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\codeframe\test\fixtures133662072472569071 1
 116C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\CDC.js133662072491332653 0
 87C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.typed-array.iterator.js133662132659736347 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\fd\c3088b080a00258279d9d8c1ab31e464f54b01133667364481844350 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.typed-array.map.js133662132659786294 0
 85C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.typed-array.reduce.js133662132659826270 0
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\modules\es.typed-array.slice.js133662132659876247 0
@@ -6422,6 +6433,7 @@
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\use-symbol-as-uid.js133662132718796404 0
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\v8-prototype-define-bug.js133662132718816387 0
 91C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\validate-arguments-length.js133662132718836391 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\d6\03e8176ae1ab5d133712fdeb83fc54e5c8a195133667364481154236 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\weak-map-helpers.js133662132719196151 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\math\hypot.js133662132676558303 0
 90C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\internals\well-known-symbol-define.js133662132719585904 0
@@ -6674,7 +6686,7 @@
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\regexp\match.js133662132698008274 0
 74C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\regexp\search.js133662132705291257 0
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\regexp\split.js133662132709137189 0
-47C:\Users\Vlatko\Desktop\Forkify\dist\index.html133667361208510382 0
+47C:\Users\Vlatko\Desktop\Forkify\dist\index.html133667378071693959 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\object\index.js133662132678347200 0
 74C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\regexp\sticky.js133662132709397055 0
 77C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\regexp\to-string.js133662132715828252 0
@@ -6732,7 +6744,7 @@
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\object\is.js133662132692561671 0
 86C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\css-subgrid.js133662072507137536 0
 67C:\Users\Vlatko\Desktop\Forkify\node_modules\async\flatMapSeries.js133667343762003091 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\00\a544d6ed7321632bf6718f08bba16d1a9087df133667345564035485 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\00\a544d6ed7321632bf6718f08bba16d1a9087df133667364485472188 0
 102C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.js133662072493724111 0
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\object\iterate-entries.js133662132693051363 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\US.js133662072524028189 0
@@ -6992,7 +7004,6 @@
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\array\virtual\iterator.js133662132693501081 0
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\lib\utils.js133662072506118188 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\array\virtual\concat.js133662132649224683 0
-117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.e37f48ea.js133667345563562477 0
 86C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\array\virtual\copy-within.js133662132650651983 0
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\array\virtual\every.js133662132667361573 0
 85C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\full\array\virtual\filter-out.js133662132668517854 0
@@ -7037,7 +7048,6 @@
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\data-view133662132706412367 1
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\transformer-html\src\inline.js133662072484296872 0
 87C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\typed-array\filter-out.js133662132668477881 0
-118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\icons.dfd7a6db.svg133667345563375414 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\dom-exception133662132715168662 1
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\escape.js133662132660116101 0
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\function133662132717916947 1
@@ -7117,6 +7127,7 @@
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\array\virtual\copy-within.js133662132650562033 0
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\typed-array\uint32-array.js133662132717767041 0
 86C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\typed-array\unique-by.js133662132718116822 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\5f\d1ae66eacd0faeb0b5229249ed692bef2602d8133667362600524709 0
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\typed-array\values.js133662132719046243 0
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\data-view\index.js133662132680109411 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\features\typed-array\with.js133662132720175537 0
@@ -7561,7 +7572,6 @@
 62C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\regexp133662132715718318 1
 59C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\set133662132718036873 1
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\weak-set\index.js133662132679889625 0
-120C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\favicon.8b2f57bf.png133667345563375414 0
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\weak-map\index.js133662132679735281 0
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\typed-array\at.js133662132646398066 0
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\workers\src\process133662072489453825 1
@@ -7625,7 +7635,6 @@
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\GM.js133662072513649473 0
 69C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\string\raw.js133662132702004992 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\array\entries.js133662132653580169 0
-117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\logo.726d37a8.png133667345563542493 0
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\string\repeat.js133662132703475517 0
 77C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\string\replace-all.js133662132703835812 0
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\es\string\replace.js133662132704015707 0
@@ -8112,7 +8121,7 @@
 83C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\async-iterator\every.js133662132666622042 0
 85C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\webworkers.js133662072524847681 0
 84C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\async-iterator\filter.js133662132668717737 0
-54C:\Users\Vlatko\Desktop\Forkify\dist\logo.9272a069.png133667361208026991 0
+54C:\Users\Vlatko\Desktop\Forkify\dist\logo.9272a069.png133667378071402465 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\ac3-ec3.js133662072472868882 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\async-iterator\find.js133662132670602011 0
 81C:\Users\Vlatko\Desktop\Forkify\node_modules\core-js\actual\async-iterator\map.js133662132696199395 0
@@ -8250,7 +8259,7 @@
 119C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\lang.js133662072499100764 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\CU.js133662072508796509 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\CV.js133662072509006377 0
-112C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects133667345565763153 1
+112C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects133667364482634427 1
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\CZ.js133662072509156285 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\DZ.js133662072511001104 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\EE.js133662072511141022 0
@@ -8356,6 +8365,7 @@
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\YT.js133662072525057548 0
 126C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133662072500401730 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\ZA.js133662072525067547 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\74\ca4730ae92cd26a5b0f2e6d1aff7bfc3bec861133667364485628431 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\regions\ZM.js133662072525077533 0
 93C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\src\_class_private_field_update.mjs133662072513229721 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\caniuse-lite\data\features\aac.js133662072470909893 0
@@ -8722,7 +8732,9 @@
 64C:\Users\Vlatko\Desktop\Forkify\node_modules\async\timesLimit.js133667343763878862 0
 59C:\Users\Vlatko\Desktop\Forkify\node_modules\async\until.js133667343763928544 0
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\async\internal\applyEach.js133667343761285031 0
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\f0133667364482000572 1
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\async\internal\awaitify.js133667343761504963 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\f0\1f6ef0d64594616e9d62bc59c3d10da3971a43133667364478246620 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\async\internal\DoublyLinkedList.js133667343761621343 0
 74C:\Users\Vlatko\Desktop\Forkify\node_modules\async\internal\getIterator.js133667343762438007 0
 67C:\Users\Vlatko\Desktop\Forkify\node_modules\async\internal\Heap.js133667343762446242 0
@@ -8787,6 +8799,7 @@
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_construct133662072507827111 1
 73C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_create_class133662072507877081 1
 96C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose133662072507917051 1
+125C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.runtime.963dac9b.js133667364485159735 0
 69C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_defaults133662072508146911 1
 68C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_dispose133662072508876453 1
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_export_star133662072508946416 1
@@ -8819,7 +8832,6 @@
 95C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_sliced_to_array_loose\package.json133662072510761252 0
 71C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\test\fixtures133662072507707183 1
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_sliced_to_array\package.json133662072510811236 0
-122C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.f7626f62.css.map133667345563375414 0
 99C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_skip_first_generator_next\package.json133662072510691294 0
 90C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_set_prototype_of\package.json133662072510541398 0
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\_\_read_only_error\package.json133662072510435490 0
@@ -8981,6 +8993,7 @@
 91C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\cjs\_interop_require_wildcard.cjs133662072494713490 0
 96C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs133662072495023299 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs133662072495453040 0
+66C:\Users\Vlatko\Desktop\Forkify\dist\index.runtime.e308e462.js.map133667378071720999 0
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\cjs\_object_spread.cjs133662072495992697 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\@swc\helpers\cjs\_read_only_error.cjs133662072496292520 0
 95C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133662072487345133 0
@@ -9030,6 +9043,7 @@
 65C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\packager-raw133662072483847145 1
 65C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\packager-svg133662072481838385 1
 59C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\plugin133662072478890224 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\71133667364479133650 1
 61C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\profiler133662072485486120 1
 65C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\reporter-cli133662072491680319 1
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\reporter-dev-server133662072489823595 1
@@ -9120,6 +9134,7 @@
 80C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\test\throttle.test.js133662072498001447 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\test\urlJoin.test.js133662072498201324 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\test\input\config133662072500541644 1
+117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.571b656f.js133667364485159735 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\test\input\sourcemap133662072500501667 1
 89C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\test\input\sourcemap\inline.js133662072495243166 0
 97C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js133662072496782209 0
@@ -9133,6 +9148,7 @@
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\src\alternatives.js133662072484916468 0
 94C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\transformer-babel\lib\BabelTransformer.js133662072483797172 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\src\ansi-html.js133662072485226278 0
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\91133667364478146692 1
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\src\blob.js133662072485526127 0
 123C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133662072490533151 0
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\utils\src\bundle-url.js133662072485795926 0
@@ -9582,6 +9598,7 @@
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\value.js133662072502480438 0
 114C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\has.js133662072497551728 0
 116C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\index.js133662072498760975 0
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\9d133667362599153422 1
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\lang.js133662072499040800 0
 120C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133662072500231835 0
 125C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133662072500311783 0
@@ -9628,6 +9645,7 @@
 72C:\Users\Vlatko\Desktop\Forkify\node_modules\@babel\code-frame\README.md133662072469545162 0
 108C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\index.js133662072498451177 0
 114C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\match-graph.js133662072499512283 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\8c\e87b3ebd9e9c468ef6422bd00ab99e6b394965133667364478226635 0
 109C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\search.js133662072501451080 0
 67C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\codeframe\test133662072488494425 1
 108C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\trace.js133662072502210599 0
@@ -9746,6 +9764,7 @@
 107C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\css.json133662072489303919 0
 107C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\index.js133662072487794856 0
 118C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\at-rules.schema.json133662072488474461 0
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\bc133667364481844350 1
 112C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.json133662072492060082 0
 119C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.schema.json133662072492249967 0
 118C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.schema.json133662072492654772 0
@@ -10009,7 +10028,6 @@
 102C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133662072507067577 0
 107C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133662072507007615 0
 107C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133662072506977638 0
-118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\icons.21bad73c.svg133667345563375414 0
 92C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\test\fixtures\context\package.json133662072506857710 0
 98C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\test\fixtures\config-malformed\.parcelrc133662072488524399 0
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple133662072491512539 0
@@ -10053,6 +10071,7 @@
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\src\public\Config.js133662072497131990 0
 82C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\src\public\Dependency.js133662072497841550 0
 90C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\src\public\MutableBundleGraph.js133662072500561633 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\60\fff3fd696893a947a28483def98f35d81f215e133667364479153633 0
 78C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\lib\applyRuntimes.js133662072492399869 0
 75C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\lib\buildCache.js133662072494943355 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\@parcel\core\lib\CommittedAsset.js133662072496832175 0
@@ -10180,48 +10199,82 @@
 92C:\Users\Vlatko\Desktop\Forkify\node_modules\@babel\helper-validator-identifier\lib\index.js133662072472778944 0
 70C:\Users\Vlatko\Desktop\Forkify\node_modules\@babel\code-frame\LICENSE133662072468439391 0
 79C:\Users\Vlatko\Desktop\Forkify\node_modules\@babel\code-frame\lib\index.js.map133662072472179336 0
-104C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git133667345565606853 1
-120C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\favicon.42656662.png133667345563375414 0
-121C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.09761b3f.js.map133667345563572476 0
-117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.62406edb.js133667345563375414 0
-118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.f7626f62.css133667345563375414 0
-129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.runtime.1424f709.js.map133667345563375414 0
-117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\logo.833dfef5.png133667345563375414 0
-111C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\config133667345564760572 0
+104C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git133667364486162257 1
+120C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\favicon.42656662.png133667364485159735 0
+120C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\favicon.9a1bb8f5.png133667364485159735 0
+118C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\icons.e4634d3e.svg133667364485159735 0
+121C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.09761b3f.js.map133667364485159735 0
+129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.runtime.1424f709.js.map133667364485159735 0
+129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\index.runtime.963dac9b.js.map133667364485159735 0
+117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\logo.833dfef5.png133667364485159735 0
+117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\logo.9272a069.png133667364485159735 0
+111C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\config133667364486162257 0
 116C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\description133667345475416819 0
-115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\FETCH_HEAD133667345560055141 0
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\FETCH_HEAD133667364482313075 0
 110C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\hooks133667345475573059 1
-110C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\index133667345565541792 0
+110C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\index133667364485693473 0
 109C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs133667345543485226 1
+114C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\ORIG_HEAD133667364484625804 0
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\89133667362599153422 1
 116C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\packed-refs133667345543329057 0
-115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\heads133667345565606853 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\heads133667364484625804 1
 114C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\tags133667345475573059 1
-124C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\remotes\origin133667345605389338 1
-133C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\remotes\origin\gh-pages133667345605217820 0
+124C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\remotes\origin133667364501725225 1
+133C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\remotes\origin\gh-pages133667362629372912 0
 129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\remotes\origin\HEAD133667345543329057 0
+129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\refs\remotes\origin\main133667364482313075 0
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\02133667345563879230 1
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\0d133667345565541792 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\25133667364478216639 1
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\26133667345564035485 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\4e133667362599153422 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\50133667364481622962 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\51133667362600680991 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\5a133667362599309667 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\5c133667364481154236 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\5d133667364478684530 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\60133667364479163619 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\74133667362599153422 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\8c133667364478236627 1
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\a1133667345565606853 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\c1133667364478196651 1
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\c6133667345564035485 1
 115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\d0133667345564035485 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\d6133667364481154236 1
+115C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\fd133667364481844350 1
 117C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\pack133667345543550281 1
 167C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\pack\pack-29f64cb2a04192e814eb436d03a912b19abf5059.idx133667345538356460 0
-168C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\pack\pack-29f64cb2a04192e814eb436d03a912b19abf5059.pack133667345563722981 0
+168C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\pack\pack-29f64cb2a04192e814eb436d03a912b19abf5059.pack133667364485472188 0
 167C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\pack\pack-29f64cb2a04192e814eb436d03a912b19abf5059.rev133667345538356460 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\da\fb65bdd55def8645fc136486bf35e5993b109c133667345564191736 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\d0\bb90edef7d3b70158bd376fb010150cb5c4a4a133667345563879230 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\c6\9adbd59bb19b6331ec41a4e643317d2fa209d4133667345564035485 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\85\d6394941e4c8302c6ddd1b1173a6bb54bc12b5133667345563722981 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\45\d4fc3c3f4022ef6a3951e72b54a6292c555120133667345563879230 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\26\571dae2629407bba08e79d5a61b53d5a04ec2e133667345564035485 0
-154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\02\43d5ca04a03495e71e731cc3adfab8961a486f133667345563879230 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\da\fb65bdd55def8645fc136486bf35e5993b109c133667364485693473 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\d0\bb90edef7d3b70158bd376fb010150cb5c4a4a133667364485472188 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\c6\9adbd59bb19b6331ec41a4e643317d2fa209d4133667364485628431 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\c2\3c4aaa1189d13e9f9a54a733fb76f5b4e0a1f0133667364485628431 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\c2\493127b8a9faf98cdfad4b5aa9a2b109c72161133667364485628431 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\c1\3b43b9966b821fb2bb40eb2ba500a3ce0537e7133667364478186662 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\bc\f698440f5092257368bb89faae90bc0ef8528b133667364481844350 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\91\ce8a277afd558f2b02bcd6b7853384722b028b133667364478136710 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\89\fbf57f0b33eaa6ea0f2889f06e2fa3e3cd596d133667364485628431 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\85\d6394941e4c8302c6ddd1b1173a6bb54bc12b5133667364485472188 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\71\3508ee7f9f301766f9c7af48865c58887a7238133667364479123658 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\63\8164d5ebf276963fe2bfd7add423bf48571a4d133667364478156680 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\5d\ab9ad5c73158f54bc204cf5690f56e93980a03133667364478684530 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\5a\1113cddecbe5fac1e24587f3afc66226449ebb133667364485628431 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\51\c6b716210952d7e53f7c83250b12369a21fe9c133667362600680991 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\50\bec8c2cff30a4c87d6df82bf9ef4cd71ceb587133667364481622962 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\4e\00d39e09426aefc576cf25b18400e87830607c133667364485628431 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\45\d4fc3c3f4022ef6a3951e72b54a6292c555120133667364485472188 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\26\571dae2629407bba08e79d5a61b53d5a04ec2e133667364485472188 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\25\daab0b331b43233c44efb209c8b1b3fe361a6f133667364478206651 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\12\8f56a29e19766f7f5abf0de066678d2ebe1ca8133667364481688030 0
+154C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\objects\02\43d5ca04a03495e71e731cc3adfab8961a486f133667364485472188 0
 114C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs133667345543485226 1
 120C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\heads133667345565606853 1
 122C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\remotes133667345543329057 1
-129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\remotes\origin133667345605217820 1
-138C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\remotes\origin\gh-pages133667345605374013 0
-129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\heads\gh-pages133667345565606853 0
+129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\remotes\origin133667364482313075 1
+138C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\remotes\origin\gh-pages133667362629372912 0
+134C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\remotes\origin\main133667364482313075 0
+129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\logs\refs\heads\gh-pages133667362600680991 0
 132C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\hooks\applypatch-msg.sample133667345475416819 0
 136C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\hooks\fsmonitor-watchman.sample133667345475416819 0
 129C:\Users\Vlatko\Desktop\Forkify\node_modules\.cache\gh-pages\https!github.com!jakimoski!forkify.git\.git\hooks\post-update.sample133667345475416819 0
@@ -10259,8 +10312,9 @@
 76C:\Users\Vlatko\Desktop\Forkify\node_modules\.bin\update-browserslist-db.ps1133662072551980947 0
 57C:\Users\Vlatko\Desktop\Forkify\dist\favicon.42656662.png133667349104820965 0
 55C:\Users\Vlatko\Desktop\Forkify\dist\icons.c14567a0.svg133667349113879278 0
-55C:\Users\Vlatko\Desktop\Forkify\dist\icons.e4634d3e.svg133667361208274477 0
+55C:\Users\Vlatko\Desktop\Forkify\dist\icons.e4634d3e.svg133667378071503800 0
 54C:\Users\Vlatko\Desktop\Forkify\dist\index.09761b3f.js133667349114627988 0
 59C:\Users\Vlatko\Desktop\Forkify\dist\index.13495aef.css.map133667349114707942 0
 59C:\Users\Vlatko\Desktop\Forkify\dist\index.6fd1e385.css.map133667361208621291 0
+54C:\Users\Vlatko\Desktop\Forkify\dist\index.9b379914.js133667378071693959 0
 62C:\Users\Vlatko\Desktop\Forkify\dist\index.runtime.963dac9b.js133667361208510382 0

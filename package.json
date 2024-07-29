@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build  --no-optimize index.html --dist-dir ./dist",
+    "build": "parcel build --no-scope-hoist --no-optimize index.html --dist-dir ./dist",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
