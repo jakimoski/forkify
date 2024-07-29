@@ -19,7 +19,7 @@ Forkify is a recipe search and meal planning application. Users can search for r
 
 ## Demo
 
-Check out the live demo of the app [here](https://your-demo-link.com).
+Check out the live demo of the app [here](https://jakimoski.github.io/forkify/).
 
 ## Features
 
