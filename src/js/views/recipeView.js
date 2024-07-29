@@ -32,7 +32,10 @@ class RecipeView extends View {
       handler();
     });
   }
-
+  /**
+   *
+   * @returns Return a HTML string markup
+   */
   _generateMarkup() {
     return `<figure class="recipe__fig">
       <img src="${this._data.image}" alt="${

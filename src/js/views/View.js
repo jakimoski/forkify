@@ -2,7 +2,11 @@ import icons from 'url:../../img/icons.svg';
 
 export default class View {
   _data;
-
+  /**
+   * Render data on the DOM
+   * @param {Object | Object[]} data Objects that will be rendered
+   * @returns
+   */
   render(data) {
     if (!data || data.length === 0) return this.renderError();
 
@@ -11,7 +15,10 @@ export default class View {
     this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
-
+  /**
+   * Detect and then render only the changes in the DOM
+   * @param {Object | Object[]} data
+   */
   update(data) {
     this._data = data;
     const newMarkup = this._generateMarkup();
@@ -39,11 +46,15 @@ export default class View {
       }
     });
   }
-
+  /**
+   * Clear the DOM element inner HTML
+   */
   _clear() {
     this._parentElement.innerHTML = '';
   }
-
+  /**
+   * Render a spinner in the DOM
+   */
   renderSpinner() {
     const markup = `
             <div class="spinner">
@@ -55,7 +66,10 @@ export default class View {
     this._clear();
     this._parentElement.insertAdjacentHTML(`afterbegin`, markup);
   }
-
+  /**
+   * Renders a error message in the DOM
+   * @param {string} message
+   */
   renderError(message = this._errorMessage) {
     const markup = `<div class="error">
               <div>
@@ -69,6 +83,10 @@ export default class View {
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
+  /**
+   * Renders a message in the DOM
+   * @param {String} message
+   */
   renderMessage(message = this._message) {
     const markup = ` <div class="message">
             <div>

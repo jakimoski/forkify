@@ -11,7 +11,11 @@ export const state = {
   },
   bookmarks: [],
 };
-
+/**
+ *
+ * @param {Object} data Object - recipe
+ * @returns Object - recipe
+ */
 const createRecipeObj = function (data) {
   const { recipe } = data.data;
   return {
@@ -26,7 +30,10 @@ const createRecipeObj = function (data) {
     ...(recipe.key && { key: recipe.key }),
   };
 };
-
+/**
+ * Fetch the recipe with the id
+ * @param {string} id
+ */
 export const loadRecipe = async function (id) {
   try {
     const data = await AJAX(`${API_URL}${id}?key=${KEY}`);
@@ -44,6 +51,10 @@ export const loadRecipe = async function (id) {
   }
 };
 
+/**
+ * Fetch data based on a query string
+ * @param {string} query
+ */
 export const loadSearchResults = async function (query) {
   try {
     state.search.query = query;
